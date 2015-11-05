@@ -1,0 +1,34 @@
+/* Headings */
+h1, h2, h3 {
+    font-family: font-family: 'Chonburi', cursive;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    
+}
+
+
+/* Background */
+body {
+    
+  background: -webkit-linear-gradient(90deg, #FDFC47 10%, #24FE41 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #FDFC47 10%, #24FE41 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #FDFC47 10%, #24FE41 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #FDFC47 10%, #24FE41 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #FDFC47 10%, #24FE41 90%); /* W3C */
+        
+}
+
+/* Nav Menu */
+nav li{
+    display:inline-block;
+    padding: 20px;
+    
+}
+
+/* Images */
+img {
+    display: inline-block;
+    border-radius: 100px;
+    max-width: 80%;
+    margin: 50px;
+}
